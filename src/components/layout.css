@@ -1,0 +1,43 @@
+.bg-theme {
+  background-color: #8d3daf;
+}
+
+.cart-icon {
+  font-size: 2rem;
+}
+
+.about-background {
+  min-height: 30vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.hero-background {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* .btn-warning {
+  padding: 8px 35px;
+}
+
+.pad {
+  text-indent: 100px;
+}
+.pad1 {
+  text-indent: 100px;
+}
+.pad2 {
+  text-indent: 100px;
+} */
+
+.offices {
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+}
